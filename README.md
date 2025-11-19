@@ -78,7 +78,7 @@ The following table lists the pre-configured user accounts and their correspondi
 
 ## 🔗 Tutorial
 Follow the full step-by-step tutorial here:
-[**https://laravelcenter.com/https://laravelcenter.com/laravel-vue-js-pos-tutorial**](https://laravelcenter.com/https://laravelcenter.com/laravel-vue-js-pos-tutorial/)
+[**https://laravelcenter.com/laravel-vue-js-pos-tutorial**](https://laravelcenter.com/laravel-vue-js-pos-tutorial/)
 
 ## 📌 Topics / Tags
 `laravel` | `vuejs` | `pos` | `laravel-tutorial` | `vue3` | `spa` | `bootstrap5` | `axios` | `laravel-sanctum` | `inventory-system` | `point-of-sale` | `beginners`
